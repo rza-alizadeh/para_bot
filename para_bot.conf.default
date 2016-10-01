@@ -2,8 +2,7 @@
 
 # bots token here
 # e.g 123456789:abcdefGHIJklmNopqrsTUVWxyz123456789
-TOKEN=
-
+TOKEN=286360049:AAHgfsiB58uvrgqKoIZldHInG90VPVhxy0k
 # bot have no ability to leave a group
 # list allowed group/chat_id into an array
 # e.g ( -12345678 - 87654321 )
